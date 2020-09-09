@@ -1,0 +1,54 @@
+body
+{
+	margin: 10px auto;
+	text-align: center;
+	box-sizing: border-box;
+	background: #f8f8f8;
+}
+.input-group.option
+{	
+	margin: 20px auto;
+	display: block !important;
+}
+.pol-map
+{
+	width:750px !important;
+	height: 408px !important;
+}
+#top_pol, #county_pol
+{
+	border:1px solid #d3d3d3;
+}
+#county_values
+{
+	display: none;
+}
+.state-county-group
+{
+	display: inline-flex;
+	margin-top: 10px;
+}
+.state-county-group select
+{
+	margin: 0px 10px;
+}
+.county-map
+{
+	height: 350px !important;
+	width: 750px !important; 
+	margin: 0 auto;
+}
+.county-row
+{
+	margin: 20px auto;
+}
+.subs-form
+{
+	width: 100%;
+	max-width: 300px;
+	margin: 10px auto;
+}
+.form-div
+{
+	margin: 20px auto;
+}
